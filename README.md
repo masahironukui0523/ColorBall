@@ -2,7 +2,7 @@
 ## Introduction
 ![](https://media.giphy.com/media/7YCRql3tvH14OdROKg/giphy.gif)
 
-ColorBall is a intersting interaction by using canvas.
+ColorBalls is a intersting interaction by using canvas.
 
 I made it when 2 motnhs passed after I started programming.
 
