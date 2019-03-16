@@ -1,4 +1,4 @@
-# ColorBall
+# ColorBalls
 ## Introduction
 ![](https://media.giphy.com/media/7YCRql3tvH14OdROKg/giphy.gif)
 
